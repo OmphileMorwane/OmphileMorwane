@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer Student
 ------------------------------
 
-I am a passionate and dedicated student studying to become a JavaScript engineer. With a strong interest in coding and technology, I am committed to learning and mastering the intricacies of JavaScript programming. I thrive on solving complex problems and enjoy the creative process of building innovative web solutions. Eager to contribute to the ever-evolving world of web development, I am constantly seeking opportunities to expand my knowledge and skills in JavaScript engineering.
+I am a passionate and dedicated student studying to become a Software Developer. With a strong interest in coding and technology, I am committed to learning and mastering the intricacies of JavaScript programming. I thrive on solving complex problems and enjoy the creative process of building innovative web solutions. Eager to contribute to the ever-evolving world of web development, I am constantly seeking opportunities to expand my knowledge and skills in JavaScript engineering.
 
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/OmphileMorwane)
