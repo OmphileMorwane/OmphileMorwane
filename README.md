@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omphile Morwane
 =======================================================================================================================================
 
-JavaScript Engineering Student
+Software Developer Student
 ------------------------------
 
 I am a passionate and dedicated student studying to become a JavaScript engineer. With a strong interest in coding and technology, I am committed to learning and mastering the intricacies of JavaScript programming. I thrive on solving complex problems and enjoy the creative process of building innovative web solutions. Eager to contribute to the ever-evolving world of web development, I am constantly seeking opportunities to expand my knowledge and skills in JavaScript engineering.
