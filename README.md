@@ -10,7 +10,7 @@ I am a passionate and dedicated student studying to become a Software Developer.
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/OmphileMorwane)
 * ✉️  You can contact me at [omphilemorwane@gmail.com](mailto:omphilemorwane@gmail.com)
 * 🚀  I'm currently working on [Royal Impact Community project](http://github.com/OmphileMorwane/Community-project_Omphile-Morwane)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning React
 
 <a href="https://www.github.com/OmphileMorwane" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/OmphileMorwane?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a>
