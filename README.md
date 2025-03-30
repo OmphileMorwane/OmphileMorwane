@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omphile Morwane
 =======================================================================================================================================
 
-Software Development Student
+Junior Software Developer
 ------------------------------
 
-I am a passionate and dedicated student studying to become a Software Developer. With a strong interest in coding and technology, I am committed to learning and mastering the intricacies of JavaScript programming. I thrive on solving complex problems and enjoy the creative process of building innovative web solutions. Eager to contribute to the ever-evolving world of web development, I am constantly seeking opportunities to expand my knowledge and skills in JavaScript engineering.
+I am a passionate and dedicated Junior Software Developer with a strong interest in coding and technology. Having completed my studies, I am now focused on applying and expanding my skills in real-world projects. I thrive on solving complex problems and enjoy the creative process of building innovative web solutions. With a solid foundation in JavaScript and a commitment to continuous learning, I’m eager to contribute to dynamic development teams and make an impact in the ever-evolving world of web development.
 
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/OmphileMorwane)
 * ✉️  You can contact me at [omphilemorwane@gmail.com](mailto:omphilemorwane@gmail.com)
-* 🚀  I'm currently working on [Royal Impact Community project](http://github.com/OmphileMorwane/Community-project_Omphile-Morwane)
+* 🚀  I'm currently working on [A mini Booking App](http://github.com/OmphileMorwane/mini-booking-app_Omphile-Morwane)
 * 🧠  I'm learning React
 
 <a href="https://www.github.com/OmphileMorwane" target="_blank" rel="noreferrer"><img
