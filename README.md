@@ -9,7 +9,7 @@ I am a passionate and dedicated Junior Software Developer with a strong interest
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/OmphileMorwane)
 * ✉️  You can contact me at [omphilemorwane@gmail.com](mailto:omphilemorwane@gmail.com)
-* 🚀  I'm currently working on [A mini Booking App](http://github.com/OmphileMorwane/mini-booking-app_Omphile-Morwane)
+* 🚀  I'm currently working on ([[Mini Booking App]](https://github.com/OmphileMorwane/mini-booking-app.git))
 * 🧠  I'm learning React
 
 <a href="https://www.github.com/OmphileMorwane" target="_blank" rel="noreferrer"><img
